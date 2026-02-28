@@ -1,21 +1,20 @@
 {
   "hero": {
     "coupleNames": {
-      "en": "Rafa & Shawon",
+      "en": "Babunty & Asad",
       "ar": "عائشہ اور ابراہیم"
     },
     "date": {
-      "en": "18 December 2024",
-      "ur": "۱۴ فروری ۲۰۲۶"
+      "en": "24 October 2025",
+      "ur": "۲۴ اکتوبر ۲۰۲۵"
     },
     "blessing": {
       "ar": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا",
       "en": "And of His signs is that He created for you from yourselves mates"
     },
-    "videoPath": "akth-teaser.mp4",
-    "posterPath": "KSH06232.jpg"
+    "videoPath": "journey.mp4",
+    "posterPath": "wedding/580604719_1230741239101953_4518879505621862453_n.jpg"
   },
-  
   "brideReveal": {
     "title": {
       "en": "She said yes",
@@ -25,9 +24,8 @@
       "en": "In that moment, two paths became one. A journey that began with uncertainty now walks forward with purpose, blessed by Allah and bound by love.",
       "ur": "اس لمحے میں، دو راستے ایک ہو گئے۔ ایک سفر جو غیر یقینی سے شروع ہوا اب مقصد کے ساتھ آگے بڑھتا ہے"
     },
-    "imagePath": "SFK07521.jpg"
+    "imagePath": "wedding/propose.jpg"
   },
-
   "story": {
     "title": {
       "en": "Our Journey",
@@ -44,7 +42,7 @@
           "en": "A crowded room. A stolen glance. Neither of us knew that everything was about to change.",
           "ur": "ایک بھیڑ بھری کمرہ۔ ایک چوری نظر۔ ہم میں سے کسی کو نہیں معلوم تھا کہ سب کچھ بدلنے والا ہے"
         },
-        "imagePath": "KSH06236.jpg"
+        "imagePath": "520512669_1176789714463396_6761422953005469350_n.jpg"
       },
       {
         "year": "2021",
@@ -56,7 +54,7 @@
           "en": "Through late-night conversations and morning prayers, we built something neither of us expected—a home in each other.",
           "ur": "رات کی گفتگو اور صبح کی نمازوں کے ذریعے، ہم نے کچھ ایسا بنایا جس کی ہم میں سے کسی نے توقع نہیں کی تھی"
         },
-        "imagePath": "KSH06260.jpg"
+        "imagePath": "521966516_1176791084463259_7793885393233570801_n.jpg"
       },
       {
         "year": "2024",
@@ -68,11 +66,10 @@
           "en": "Under the same stars where we first admitted our feelings, he asked me to be his forever. I said yes without hesitation.",
           "ur": "انہی ستاروں کے نیچے جہاں ہم نے پہلی بار اپنے جذبات کا اعتراف کیا، اس نے مجھ سے ہمیشہ کے لیے پوچھا"
         },
-        "imagePath": "KSH06333.jpg"
+        "imagePath": "wedding/581960663_1230740895768654_7965663751345898237_n.jpg"
       }
     ]
   },
-
   "footer": {
     "thankYou": {
       "en": "Thank you for being part of our journey. May Allah bless you all.",

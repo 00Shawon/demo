@@ -29,7 +29,7 @@ export default function VideoHero() {
           muted
           loop
           playsInline
-          src={getVideoPath(heroData.videoPath)}
+          src={`/videos/${heroData.videoPath}`}
           className="absolute inset-0 w-full h-full object-cover brightness-[0.55] contrast-[1.1] saturate-[0.85]"
         />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_transparent_10%,_rgba(10,10,10,0.7)_100%)] z-10" />

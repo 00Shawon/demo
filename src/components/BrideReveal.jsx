@@ -26,14 +26,25 @@ export default function BrideReveal() {
         style={{ y: imageY, scale: imageScale }} 
         className="absolute inset-0 z-0"
       >
-       <Image
-  src={getImagePath(revealData.imagePath)}
-  alt="Bride portrait"
-  fill
-  quality={90}  // ✅ In config
-  sizes="100vw"
-  className="object-cover object-center"
-/>
+       {revealData.imagePath.endsWith('.mp4') ? (
+         <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            src={`/videos/${revealData.imagePath.split('/').pop()}`}
+            className="absolute inset-0 w-full h-full object-cover object-center"
+         />
+       ) : (
+         <Image
+          src={getImagePath(revealData.imagePath)}
+          alt="Bride portrait"
+          fill
+          quality={90}
+          sizes="100vw"
+          className="object-cover object-center"
+        />
+       )}
         {/* Layered Cinematic Overlays */}
         <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/20 to-transparent" />
         <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-black/40" />

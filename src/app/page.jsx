@@ -16,7 +16,7 @@ export default function Home() {
   console.log('-----------------------------------', ceremonies)
   
   // Get ceremonies by ID in chronological order
-  const akthCeremony = ceremonies.find(c => c.id === 'akth')
+  const reciptionCeremony = ceremonies.find(c => c.id === 'Reciption')
   const holudCeremony = ceremonies.find(c => c.id === 'holud')
   const weddingCeremony = ceremonies.find(c => c.id === 'wedding')
 
@@ -41,17 +41,10 @@ export default function Home() {
         </div>
         
         <SectionDivider variant="line" accentColor="clay" />
-         <div id="home">
+         <div id="home" className='mb-20'>
          
           <BrideReveal />
         </div>
-        {/* AKTH CEREMONY */}
-        <div id="akth">
-          {akthCeremony && <CeremonySection ceremony={akthCeremony} />}
-        </div>
-        
-        <SectionDivider variant="ornament" accentColor="saffron" />
-        
         {/* HOLUD CEREMONY */}
         <div id="holud">
           {holudCeremony && <CeremonySection ceremony={holudCeremony} />}
@@ -62,6 +55,13 @@ export default function Home() {
         {/* WEDDING CEREMONY */}
         <div id="wedding">
           {weddingCeremony && <CeremonySection ceremony={weddingCeremony} />}
+        </div>
+        
+        <SectionDivider variant="ornament" />
+
+        {/* RECIPTION CEREMONY */}
+        <div id="reciption">
+          {reciptionCeremony && <CeremonySection ceremony={reciptionCeremony} />}
         </div>
         
         <SectionDivider variant="ornament" />

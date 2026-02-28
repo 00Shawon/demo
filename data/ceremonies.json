@@ -1,88 +1,6 @@
 {
   "ceremonies": [
-    {
-      "id": "akth",
-      "title": {
-        "en": "The Akth",
-        "ur": "عقد"
-      },
-      "subtitle": {
-        "en": "The Sacred Union",
-        "ur": "مقدس اتحاد"
-      },
-      "date": {
-        "en": "17 December 2024",
-        "ur": "۱۷ دسمبر ۲۰۲۴"
-      },
-      "venue": {
-        "en": "Bride's Home, Khulna",
-        "ur": "دلہن کا گھر، کھلنا"
-      },
-      "description": {
-        "en": "In the presence of our families, with the blessings of Allah, we exchanged our vows. The Akth ceremony marked the beginning of our journey together, bound by faith, love, and commitment.",
-        "ur": "اپنے خاندانوں کی موجودگی میں، اللہ کی برکت کے ساتھ، ہم نے اپنے عہد کا تبادلہ کیا۔ عقد کی تقریب نے ہمارے سفر کا آغاز کیا، ایمان، محبت اور وابستگی سے بندھے ہوئے"
-      },
-      "culturalNote": {
-        "en": "The Akth is a traditional pre-wedding ceremony in Bengali Muslim culture, where the formal marriage contract is signed in an intimate gathering of close family members.",
-        "ur": "عقد بنگالی مسلم ثقافت میں شادی سے پہلے کی ایک روایتی تقریب ہے، جہاں قریبی خاندان کے اراکین کی ایک مخلص جمع میں رسمی شادی کا معاہدہ دستخط کیا جاتا ہے"
-      },
-     "heroImage": "SFK07551.jpg", 
-  "galleryImages": [
-    "SFK07472.jpg",
-    "SFK07475.jpg",
-    "KSH07319.jpg",
-    "SFK07521.jpg",
-    "SFK07530.jpg",
-    "SFK07535.jpg"
-  ],
-      "accentColor": "clay",
-      "dua": {
-        "ar": "بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
-        "en": "May Allah bless you, shower His blessings upon you, and join you together in goodness"
-      }
-    },
-    {
-      "id": "wedding",
-      "title": {
-        "en": "The Wedding",
-        "ur": "شادی"
-      },
-      "subtitle": {
-        "en": "Nikah Ceremony",
-        "ur": "نکاح کی تقریب"
-      },
-      "date": {
-        "en": "18 December 2024",
-        "ur": "۱۸ دسمبر ۲۰۲۴"
-      },
-      "venue": {
-        "en": "Central Mosque, Khulna University",
-        "ur": "مرکزی مسجد، کھلنا یونیورسٹی"
-      },
-      "description": {
-        "en": "In the presence of our families and blessed by Allah, we joined our lives in nikah. A moment of sacred commitment, where two hearts became one under the guidance of our faith.",
-        "ur": "اپنے خاندانوں کی موجودگی میں اور اللہ کی برکت سے، ہم نے نکاح میں اپنی زندگیاں جوڑ لیں۔ مقدس عہد کا لمحہ، جہاں دو دل ہمارے ایمان کی رہنمائی میں ایک ہو گئے"
-      },
-      "culturalNote": {
-        "en": "The nikah is the Islamic marriage contract, where both bride and groom consent to the union in the presence of witnesses.",
-        "ur": "نکاح اسلامی شادی کا معاہدہ ہے، جہاں دلہن اور دولہا دونوں گواہوں کی موجودگی میں اتحاد پر رضامندی دیتے ہیں"
-      },
-      "heroImage": "KSH07793.jpg",
-      "galleryImages": [
-        "KSH07833.jpg",
-        "KSH07844.jpg",
-        "KSH06260.jpg",
-        "KSH06333.jpg",
-        "KSH06341.jpg",
-        "KSH06368.jpg"
-      ],
-      "accentColor": "deep-wine",
-      "dua": {
-        "ar": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
-        "en": "Our Lord, grant us from among our spouses and offspring comfort to our eyes"
-      }
-    },
-    {
+     {
       "id": "holud",
       "title": {
         "en": "The Holud",
@@ -108,16 +26,98 @@
         "en": "Holud (or Haldi) is a pre-wedding tradition where turmeric paste is applied to the bride and groom for purification and blessing.",
         "ur": "ہلدی شادی سے پہلے کی روایت ہے جہاں دلہن اور دولہا پر پاکیزگی اور برکت کے لیے ہلدی کا لیپ لگایا جاتا ہے"
       },
-      "heroImage": "KSH07294.jpg",
+      "heroImage": "wedding/holud.mp4",
       "galleryImages": [
-        "KSH06449.jpg",
-        "KSH06456.jpg",
-        "SFK07472.jpg",
-        "SFK07475.jpg",
-        "SFK07521.jpg",
-        "SFK07530.jpg"
+        "Holud/576171455_1224014173107993_5635294870242029716_n.jpg",
+        "Holud/576296770_1224013169774760_8169691733438948606_n.jpg",
+        "Holud/576766389_1224014363107974_592490104828615710_n.jpg",
+        "Holud/577329868_1224012823108128_9072601081043115780_n.jpg",
+        "Holud/577811167_1224014099774667_5631449208782184193_n.jpg",
+        "Holud/577815848_1224014409774636_5940258472809727555_n.jpg"
       ],
       "accentColor": "saffron"
+    },
+    {
+      "id": "wedding",
+      "title": {
+        "en": "The Wedding",
+        "ur": "شادی"
+      },
+      "subtitle": {
+        "en": "Nikah Ceremony",
+        "ur": "نکاح کی تقریب"
+      },
+      "date": {
+        "en": "24 October 2025",
+        "ur": "۲۴ اکتوبر ۲۰۲۵"
+      },
+      "venue": {
+        "en": "Central Mosque, Khulna University",
+        "ur": "مرکزی مسجد، کھلنا یونیورسٹی"
+      },
+      "description": {
+        "en": "In the presence of our families and blessed by Allah, we joined our lives in nikah. A moment of sacred commitment, where two hearts became one under the guidance of our faith.",
+        "ur": "اپنے خاندانوں کی موجودگی میں اور اللہ کی برکت سے، ہم نے نکاح میں اپنی زندگیاں جوڑ لیں۔ مقدس عہد کا لمحہ، جہاں دو دل ہمارے ایمان کی رہنمائی میں ایک ہو گئے"
+      },
+      "culturalNote": {
+        "en": "The nikah is the Islamic marriage contract, where both bride and groom consent to the union in the presence of witnesses.",
+        "ur": "نکاح اسلامی شادی کا معاہدہ ہے، جہاں دلہن اور دولہا دونوں گواہوں کی موجودگی میں اتحاد پر رضامندی دیتے ہیں"
+      },
+      "heroImage": "wedding/wedding.mp4",
+      "galleryImages": [
+        "wedding/581939022_1230741215768622_479398562219466370_n.jpg",
+        "wedding/581960663_1230740895768654_7965663751345898237_n.jpg",
+        "wedding/582010904_1230744339101643_2520963321729667042_n.jpg",
+        "wedding/582061844_1230742515768492_7944546073922706175_n.jpg",
+        "wedding/582332529_1230742045768539_5913269352695339960_n.jpg",
+        "wedding/582412879_1230741432435267_2642645678788803002_n.jpg"
+      ],
+      "accentColor": "deep-wine",
+      "dua": {
+        "ar": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+        "en": "Our Lord, grant us from among our spouses and offspring comfort to our eyes"
+      }
+    },
+    {
+      "id": "Reciption",
+      "title": {
+        "en": "Reciption",
+        "ur": "عقد"
+      },
+      "subtitle": {
+        "en": "The Sacred Union",
+        "ur": "مقدس اتحاد"
+      },
+      "date": {
+        "en": "17 December 2024",
+        "ur": "۱۷ دسمبر ۲۰۲۴"
+      },
+      "venue": {
+        "en": "Bride's Home, Khulna",
+        "ur": "دلہن کا گھر، کھلنا"
+      },
+      "description": {
+        "en": "In the presence of our families, with the blessings of Allah, we exchanged our vows. The Akth ceremony marked the beginning of our journey together, bound by faith, love, and commitment.",
+        "ur": "اپنے خاندانوں کی موجودگی میں، اللہ کی برکت کے ساتھ، ہم نے اپنے عہد کا تبادلہ کیا۔ عقد کی تقریب نے ہمارے سفر کا آغاز کیا، ایمان، محبت اور وابستگی سے بندھے ہوئے"
+      },
+      "culturalNote": {
+        "en": "The Akth is a traditional pre-wedding ceremony in Bengali Muslim culture, where the formal marriage contract is signed in an intimate gathering of close family members.",
+        "ur": "عقد بنگالی مسلم ثقافت میں شادی سے پہلے کی ایک روایتی تقریب ہے، جہاں قریبی خاندان کے اراکین کی ایک مخلص جمع میں رسمی شادی کا معاہدہ دستخط کیا جاتا ہے"
+      },
+      "heroImage": "reciption/585906838_1236112115231532_8660613041212765561_n.jpg",
+      "galleryImages": [
+        "reciption/586025400_1236112698564807_4941350152246674922_n.jpg",
+        "reciption/586053290_1236110895231654_2133974927475992499_n.jpg",
+        "reciption/586070137_1236111641898246_4359291693708809235_n.jpg",
+        "reciption/586113970_1236110268565050_8106668868593807266_n.jpg",
+        "reciption/586131155_1236112208564856_4077587659930856435_n.jpg",
+        "reciption/586213901_1236110335231710_7110207866987042529_n.jpg"
+      ],
+      "accentColor": "clay",
+      "dua": {
+        "ar": "بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+        "en": "May Allah bless you, shower His blessings upon you, and join you together in goodness"
+      }
     }
   ]
 }

@@ -8,9 +8,9 @@ import { getHeroContent } from '@/lib/getData'
 const navItems = [
   { label: 'Home', labelUrdu: 'ہوم', href: '#home' },
   { label: 'Our Story', labelUrdu: 'ہماری کہانی', href: '#story' },
-  { label: 'Akth', labelUrdu: 'عقد', href: '#akth' },
-  { label: 'Wedding', labelUrdu: 'شادی', href: '#wedding' },
   { label: 'Holud', labelUrdu: 'ہلدی', href: '#holud' },
+  { label: 'Wedding', labelUrdu: 'شادی', href: '#wedding' },
+  { label: 'Reciption ', labelUrdu: 'عقد', href: '#reciption' },
   { label: 'Gallery', labelUrdu: 'گیلری', href: '#gallery' },
   { label: 'Blessings', labelUrdu: 'دعائیں', href: '#duas' },
   { label: 'Messages', labelUrdu: 'پیغامات', href: '#messages' },

@@ -49,14 +49,25 @@ export default function CeremonySection({ ceremony }) {
             style={{ y: heroY }}
             className="relative w-full h-[120%] -top-[10%]"
           >
-            <Image
-              src={getImagePath(ceremony.heroImage)}
-               alt="Bride portrait"
-  fill
-  quality={90}  // ✅ In config
-  sizes="100vw"
-  className="object-cover object-center"
-            />
+            {ceremony.heroImage.endsWith('.mp4') ? (
+              <video
+                autoPlay
+                muted
+                loop
+                playsInline
+                src={`/videos/${ceremony.heroImage.split('/').pop()}`}
+                className="absolute inset-0 w-full h-full object-cover object-center"
+              />
+            ) : (
+              <Image
+                src={getImagePath(ceremony.heroImage)}
+                alt={`${ceremony.title.en} hero image`}
+                fill
+                quality={90}
+                sizes="100vw"
+                className="object-cover object-center"
+              />
+            )}
           </motion.div>
         </div>
 

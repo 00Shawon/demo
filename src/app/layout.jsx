@@ -24,10 +24,10 @@ const amiri = Amiri({
 })
 
 export const metadata = {
-  title: 'Rafa & Shawon | Wedding',
+  title: 'Babunti & Asad | Wedding',
   description: 'Join us as we celebrate our union blessed by Allah',
   openGraph: {
-    title: 'Rafa & Shawon | Wedding',
+    title: 'Babunti & Asad | Wedding',
     description: 'Join us as we celebrate our union blessed by Allah',
     images: ['/og-image.jpg'],
   },
