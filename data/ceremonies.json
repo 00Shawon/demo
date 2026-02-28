@@ -1,0 +1,123 @@
+{
+  "ceremonies": [
+    {
+      "id": "akth",
+      "title": {
+        "en": "The Akth",
+        "ur": "عقد"
+      },
+      "subtitle": {
+        "en": "The Sacred Union",
+        "ur": "مقدس اتحاد"
+      },
+      "date": {
+        "en": "17 December 2024",
+        "ur": "۱۷ دسمبر ۲۰۲۴"
+      },
+      "venue": {
+        "en": "Bride's Home, Khulna",
+        "ur": "دلہن کا گھر، کھلنا"
+      },
+      "description": {
+        "en": "In the presence of our families, with the blessings of Allah, we exchanged our vows. The Akth ceremony marked the beginning of our journey together, bound by faith, love, and commitment.",
+        "ur": "اپنے خاندانوں کی موجودگی میں، اللہ کی برکت کے ساتھ، ہم نے اپنے عہد کا تبادلہ کیا۔ عقد کی تقریب نے ہمارے سفر کا آغاز کیا، ایمان، محبت اور وابستگی سے بندھے ہوئے"
+      },
+      "culturalNote": {
+        "en": "The Akth is a traditional pre-wedding ceremony in Bengali Muslim culture, where the formal marriage contract is signed in an intimate gathering of close family members.",
+        "ur": "عقد بنگالی مسلم ثقافت میں شادی سے پہلے کی ایک روایتی تقریب ہے، جہاں قریبی خاندان کے اراکین کی ایک مخلص جمع میں رسمی شادی کا معاہدہ دستخط کیا جاتا ہے"
+      },
+     "heroImage": "SFK07551.jpg", 
+  "galleryImages": [
+    "SFK07472.jpg",
+    "SFK07475.jpg",
+    "KSH07319.jpg",
+    "SFK07521.jpg",
+    "SFK07530.jpg",
+    "SFK07535.jpg"
+  ],
+      "accentColor": "clay",
+      "dua": {
+        "ar": "بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+        "en": "May Allah bless you, shower His blessings upon you, and join you together in goodness"
+      }
+    },
+    {
+      "id": "wedding",
+      "title": {
+        "en": "The Wedding",
+        "ur": "شادی"
+      },
+      "subtitle": {
+        "en": "Nikah Ceremony",
+        "ur": "نکاح کی تقریب"
+      },
+      "date": {
+        "en": "18 December 2024",
+        "ur": "۱۸ دسمبر ۲۰۲۴"
+      },
+      "venue": {
+        "en": "Central Mosque, Khulna University",
+        "ur": "مرکزی مسجد، کھلنا یونیورسٹی"
+      },
+      "description": {
+        "en": "In the presence of our families and blessed by Allah, we joined our lives in nikah. A moment of sacred commitment, where two hearts became one under the guidance of our faith.",
+        "ur": "اپنے خاندانوں کی موجودگی میں اور اللہ کی برکت سے، ہم نے نکاح میں اپنی زندگیاں جوڑ لیں۔ مقدس عہد کا لمحہ، جہاں دو دل ہمارے ایمان کی رہنمائی میں ایک ہو گئے"
+      },
+      "culturalNote": {
+        "en": "The nikah is the Islamic marriage contract, where both bride and groom consent to the union in the presence of witnesses.",
+        "ur": "نکاح اسلامی شادی کا معاہدہ ہے، جہاں دلہن اور دولہا دونوں گواہوں کی موجودگی میں اتحاد پر رضامندی دیتے ہیں"
+      },
+      "heroImage": "KSH07793.jpg",
+      "galleryImages": [
+        "KSH07833.jpg",
+        "KSH07844.jpg",
+        "KSH06260.jpg",
+        "KSH06333.jpg",
+        "KSH06341.jpg",
+        "KSH06368.jpg"
+      ],
+      "accentColor": "deep-wine",
+      "dua": {
+        "ar": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+        "en": "Our Lord, grant us from among our spouses and offspring comfort to our eyes"
+      }
+    },
+    {
+      "id": "holud",
+      "title": {
+        "en": "The Holud",
+        "ur": "ہلدی"
+      },
+      "subtitle": {
+        "en": "Celebration of Joy",
+        "ur": "خوشی کا جشن"
+      },
+      "date": {
+        "en": "16 December 2024",
+        "ur": "۱۶ دسمبر ۲۰۲۴"
+      },
+      "venue": {
+        "en": "Family Home, Khulna",
+        "ur": "خاندانی گھر، کھلنا"
+      },
+      "description": {
+        "en": "A vibrant celebration where turmeric paste blessed our union. Surrounded by laughter, music, and the warmth of family, this ancient tradition brought color and joy to our journey.",
+        "ur": "ایک متحرک جشن جہاں ہلدی کے لیپ نے ہمارے اتحاد کو برکت دی۔ ہنسی، موسیقی، اور خاندان کی گرمجوشی سے گھرے، اس قدیم روایت نے ہمارے سفر میں رنگ اور خوشی لائی"
+      },
+      "culturalNote": {
+        "en": "Holud (or Haldi) is a pre-wedding tradition where turmeric paste is applied to the bride and groom for purification and blessing.",
+        "ur": "ہلدی شادی سے پہلے کی روایت ہے جہاں دلہن اور دولہا پر پاکیزگی اور برکت کے لیے ہلدی کا لیپ لگایا جاتا ہے"
+      },
+      "heroImage": "KSH07294.jpg",
+      "galleryImages": [
+        "KSH06449.jpg",
+        "KSH06456.jpg",
+        "SFK07472.jpg",
+        "SFK07475.jpg",
+        "SFK07521.jpg",
+        "SFK07530.jpg"
+      ],
+      "accentColor": "saffron"
+    }
+  ]
+}

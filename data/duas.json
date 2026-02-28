@@ -1,0 +1,48 @@
+{
+  "duas": [
+    {
+      "id": 1,
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "translation": "Our Lord, grant us from among our spouses and offspring comfort to our eyes and make us a leader for the righteous.",
+      "reference": {
+        "en": "Quran 25:74",
+        "ur": "قرآن ۲۵:۷۴"
+      },
+      "audioPath": null
+    },
+    {
+      "id": 2,
+      "arabic": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً",
+      "translation": "And of His signs is that He created for you from yourselves mates that you may find tranquility in them; and He placed between you affection and mercy.",
+      "reference": {
+        "en": "Quran 30:21",
+        "ur": "قرآن ۳۰:۲۱"
+      },
+      "audioPath": null
+    },
+    {
+      "id": 3,
+      "arabic": "بَارَكَ اللهُ لَكَ وَبَارَكَ عَلَيْكَ وَجَمَعَ بَيْنَكُمَا فِي خَيْرٍ",
+      "translation": "May Allah bless you, and shower His blessings upon you, and join you together in goodness.",
+      "reference": {
+        "en": "Traditional Wedding Dua",
+        "ur": "روایتی شادی کی دعا"
+      },
+      "audioPath": null
+    }
+  ],
+  "parentBlessings": {
+    "title": {
+      "en": "Blessings from Our Parents",
+      "ur": "والدین کی دعائیں"
+    },
+    "message": {
+      "en": "May Allah grant you both a life filled with love, understanding, and countless blessings. May your home be a place of peace and your hearts always find comfort in each other.",
+      "ur": "اللہ آپ دونوں کو محبت، تفہیم اور بے شمار برکتوں سے بھری زندگی عطا فرمائے۔ آپ کا گھر امن کی جگہ ہو اور آپ کے دل ہمیشہ ایک دوسرے میں سکون پائیں"
+    },
+    "attribution": {
+      "en": "With love, from both families",
+      "ur": "محبت کے ساتھ، دونوں خاندانوں کی طرف سے"
+    }
+  }
+}

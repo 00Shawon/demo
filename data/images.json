@@ -1,0 +1,168 @@
+{
+  "basePath": "/images/Akth",
+  "gallery": [
+    {
+      "id": "g1",
+      "filename": "KSH06232.jpg",
+      "category": "wedding",
+      "alt": "Wedding ceremony moment",
+      "caption": "The moment we became one",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g2",
+      "filename": "KSH06236.jpg",
+      "category": "wedding",
+      "alt": "Wedding portraits",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g3",
+      "filename": "KSH06242.jpg",
+      "category": "wedding",
+      "alt": "Wedding celebration",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g4",
+      "filename": "KSH06260.jpg",
+      "category": "wedding",
+      "alt": "Wedding moments",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g5",
+      "filename": "KSH06333.jpg",
+      "category": "wedding",
+      "alt": "Nikah ceremony",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g6",
+      "filename": "KSH06341.jpg",
+      "category": "portraits",
+      "alt": "Couple portrait",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g7",
+      "filename": "KSH06368.jpg",
+      "category": "details",
+      "alt": "Wedding details",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g8",
+      "filename": "KSH06387.jpg",
+      "category": "holud",
+      "alt": "Holud celebration",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g9",
+      "filename": "KSH06449.jpg",
+      "category": "holud",
+      "alt": "Holud ceremony",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g10",
+      "filename": "KSH06456.jpg",
+      "category": "holud",
+      "alt": "Turmeric ceremony",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g11",
+      "filename": "SFK07472.jpg",
+      "category": "portraits",
+      "alt": "Bride portrait",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g12",
+      "filename": "SFK07475.jpg",
+      "category": "portraits",
+      "alt": "Couple together",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g13",
+      "filename": "SFK07521.jpg",
+      "category": "special",
+      "alt": "Special day celebration",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g14",
+      "filename": "SFK07530.jpg",
+      "category": "special",
+      "alt": "Dancing celebration",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g15",
+      "filename": "SFK07535.jpg",
+      "category": "special",
+      "alt": "Family gathering",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g16",
+      "filename": "SFK07536.jpg",
+      "category": "details",
+      "alt": "Event details",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g17",
+      "filename": "SFK07542.jpg",
+      "category": "portraits",
+      "alt": "Beautiful portrait",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    },
+    {
+      "id": "g18",
+      "filename": "SFK07544.jpg",
+      "category": "details",
+      "alt": "Wedding details",
+      "width": 1600,
+      "height": 2000,
+      "aspectRatio": "4:5"
+    }
+  ]
+}
